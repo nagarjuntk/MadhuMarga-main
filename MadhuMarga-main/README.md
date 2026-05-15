@@ -37,22 +37,6 @@ utils/ → Helper classes
 
 ## ⚙️ Setup Instructions
 
-### Clone the Repository
-
-git clone [https://github.com/malikarshid01430-byte/MadhuMarga.git](https://github.com/malikarshid01430-byte/MadhuMarga.git)
-
----
-
-### Or Download ZIP
-
-1. Go to the repository on GitHub
-2. Click Code
-3. Click Download ZIP
-4. Locate the downloaded ZIP file
-5. Right click the file
-6. Select Extract Here or Extract to folder
-7. Open the extracted folder
-
 ---
 
 ### Import into Android Studio
